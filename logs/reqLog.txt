@@ -1,3 +1,35 @@
-20230810	12:21:51	3239083d-a314-49c6-83d3-a668268ec1ff	/data/data	GET
-20230810	12:21:51	deaaf115-3035-4cfb-b534-00998a0135d4	/css/style.css	GET
-20230810	12:22:00	e48552ce-9453-4713-85f3-6f41331ac5e8	/data/data.txt	GET
+20230810	14:04:54	4d2edde4-a147-4501-88b5-9e87f167e6de	GET	undefined	/
+20230810	14:04:54	746794f6-fd19-460e-bc98-4c470256f2f6	GET	undefined	/css/style.css
+20230810	14:07:03	d46218bc-ac4e-4c62-a31a-c9314b6abbf1	GET	undefined	/
+20230810	14:07:03	e0dc080e-ea47-4425-8d29-eab609451587	GET	undefned	/css/style.css
+20230810	14:08:19	e8d93705-c029-40c7-bb09-214889609d2f	OPTIONS	https://www.google.com	/
+20230810	14:08:19	3ebb54c4-981f-4056-a6ea-b35f8e15e1e0	GET	https://www.google.com	/
+20230810	14:10:50	7bf79f04-bd0e-400c-8094-8df454cd61ff	OPTIONS	https://www.google.com	/
+20230810	14:10:50	d9bc8c60-33c3-4fbf-ad53-57e79fc886c6	GET	https://www.google.com	/
+20230810	14:21:12	f51f168e-0eb1-4e23-90de-babff394fd2c	OPTIONS	https://www.google.com	/
+20230810	14:21:12	f9a2eaaf-c5d7-43cf-a229-d76d3baf18de	GET	https://www.google.com	/
+20230810	14:21:50	a0998e60-098d-40f6-bb2e-e32e942762a6	OPTIONS	https://www.google.com	/
+20230810	14:21:50	92d3af5f-c9d9-4fb2-a476-130288ad447e	GET	https://www.google.com	/
+20230810	14:26:25	61aa54ae-89cf-4e3a-b00a-98dd7b45d5f5	GET	undefined	/
+20230810	14:26:26	2d089604-e374-47a2-853e-eef8deb63551	GET	undefined	/
+20230810	14:27:18	16c61630-37b5-44ca-9db2-58314c29c745	GET	undefined	/
+20230810	14:27:18	f37abff4-a157-4315-96d0-c446a4ad322f	GET	undefined	/css/style.css
+20230810	14:33:56	a0d13b7d-c5b8-4ad2-b928-f2fd94d7245a	GET	undefined	/
+20230810	14:33:56	320272f9-db8a-4d2b-9df7-b22fcdfb839b	GET	undefined	/css/style.css
+20230810	14:34:20	2482c93b-70a5-438b-a715-e14d8f7ab628	GET	undefined	/
+20230810	14:34:57	bb11f4a2-b1a1-436f-a77c-749c7bfdd6b5	GET	undefined	/
+20230810	14:34:57	e5451dd2-436b-4ae9-bd03-dd6eace3123f	GET	undefined	/css/style.css
+20230810	14:36:24	fc413a3f-2dfd-4227-b7d7-65d5c7ed3b6c	GET	undefined	/
+20230810	14:36:25	b8452193-56f9-4886-9be7-a5a4b753e525	GET	undefined	/css/style.css
+20230810	14:36:31	4e9272a9-d8e6-40b2-aa1d-1bc7cb1f6cac	GET	undefined	/anjiri
+20230810	14:36:31	5008b390-3025-4c5e-b9c6-43cf15645b3d	GET	undefined	/css/style.css
+20230810	14:40:31	24772298-0097-4a6d-ae73-6925c13f8619	GET	undefined	/anjiri
+20230810	14:40:31	e6d39242-c118-47c3-acc7-c27245bc9c43	GET	undefined	/css/style.css
+20230810	14:40:33	256040f4-b191-4e2e-a9dd-fb238d835e70	GET	undefined	/anjiri
+20230810	14:40:33	806c1618-d89f-4984-b880-b0b7af988ab8	GET	undefined	/css/style.css
+20230810	14:40:42	98c4bf2f-bdab-4c9f-9e4f-56d139263ee6	GET	undefined	/anjiri
+20230810	14:40:42	b121f313-6a00-490d-9ae2-5b503bd430b4	GET	undefined	/css/style.css
+20230810	14:41:24	75815e0c-0f3f-464b-bef3-1e0302e1c163	GET	undefined	/
+20230810	14:41:34	3c104ca2-d041-4813-b6b2-703c00a9de66	POST	undefined	/
+20230810	14:41:42	ddbd4418-8673-45eb-b896-44123b85e947	DELETE	undefined	/
+20230810	14:41:52	b80396fd-471c-4617-8655-ce5e03a03f97	GET	undefined	/
